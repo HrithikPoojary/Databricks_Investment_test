@@ -1,0 +1,19 @@
+OrderProducer - | 2026-05-13 16:51:45,074 | INFO Failed due to 'OrderProducer' object has no attribute 'topic_name'
+OrderProducer - | 2026-05-13 16:53:12,249 | INFO Received command  on object id 
+OrderProducer - | 2026-05-13 16:53:12,250 | INFO ClosingOrderProducer - | 2026-05-13 16:54:31,318 | INFO Failed due to 'OrderProducer' object has no attribute 'topic_name'
+OrderProducer - | 2026-05-13 17:15:46,525 | INFO Account 12059-49504 Asset GOOGL is pushed successfully
+05-13 17:15:43,784 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-13 17:15:43,785 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-23 11:27:23,969 | INFO Account 07942-19393 Asset AMZN is pushed successfully
+OrderProducer - | 2026-05-23 11:34:05,365 | INFO Account 12059-49504 Asset NVDA is pushed successfully
+-05-23 11:28:25,640 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-23 11:28:25,646 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-23 11:43:04,391 | INFO Account 12059-49504 Asset ICICIBANK is pushed successfully
+OrderProducer - | 2026-05-25 11:41:14,466 | INFO Account 97940-69402 Asset TCS is pushed successfully
+OrderProducer - | 2026-05-25 11:41:19,781 | INFO Account 06932-99420 Asset MSFT is pushed successfully
+-05-25 11:41:17,219 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-25 11:41:17,222 | INFO Closing down clientserver connection
+OrderProducer - | 2026-05-25 12:27:23,358 | INFO Account 18594-07904 Asset MSFT is pushed successfully
+OrderProducer - | 2026-05-25 12:27:29,346 | INFO Account 12059-49504 Asset NVDA is pushed successfully
+OrderProducer - | 2026-05-25 12:27:31,111 | INFO Received command  on object id 
+OrderProducer - | 2026-05-25 12:27:31,114 | INFO Closing down clientsOrderProducer - | 2026-05-25 12:27:33,889 | INFO Account 12059-49504 Asset RELIANCE is pushed successfully
