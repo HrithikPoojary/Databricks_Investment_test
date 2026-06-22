@@ -1,0 +1,1 @@
+select * from delta.`/Volumes/ashlamba/bronze/job_volume/Raw/Stores/`;
