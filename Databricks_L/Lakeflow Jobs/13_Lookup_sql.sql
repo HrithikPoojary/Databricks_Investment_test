@@ -1,0 +1,1 @@
+select * from ashlamba.bronze.lookup_table;
