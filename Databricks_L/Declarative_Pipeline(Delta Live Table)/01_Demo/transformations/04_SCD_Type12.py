@@ -32,6 +32,6 @@ dlt.create_auto_cdc_flow(
     source = "food_src_stg",
     keys = ['product_id'],
     sequence_by = col("process_date"),
-    except_column_list = ["process_date"] # this will skip the modification on this column and not included in the target table to avoid duplicates (old and new records because column is populated as current_timestamp)
+    except_column_list = ["process_date"], # this will skip the modification on this column and not included in the target table to avoid duplicates (old and new records because column is populated as current_timestamp)
     stored_as_scd_type = 2
 )
